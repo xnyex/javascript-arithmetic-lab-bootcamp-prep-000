@@ -17,5 +17,5 @@ function dec(n) {
   return n-=1
 }
 function makeInt(n,y) {
-  return parseInt('n',y)
+  parseInt('n',y)
 }
